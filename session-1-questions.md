@@ -3,3 +3,6 @@
 	
 2. How do you plan to use GitHub in your classroom?
 	Student submit their assignment and we evalate based on solution.
+	
+3. Practicals submited weekly?
+ 	Yes	
